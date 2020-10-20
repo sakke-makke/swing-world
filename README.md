@@ -1,2 +1,4 @@
 # swing-world
 Polyend tracker needs a GLOBAL SWING!
+I would LOVE to use a global swing when using Polyend Tracker. I would like to compose some 'uk garage' style beats, but at the moment that is next to impossible. With micro-move you MIGHT able to pull it, and even the old tempo trick (for example each 2nd step is 125bpm and every other like 140bpm) can excel it, but I wouldn't want to waste fx lines for that kind of sorcery in this day and age, where each of us have used to add easily some 'global swing/shuffle' to the groove (Akai mpc style for example). I know many of the Tracker users won't be after this kind of update, especially more avantgarde/ambient/glitch -trackers, but I would find it VERY useful for my future projects.
+So this is my request in short terms: Would it be possible to add some 'global swing/shuffle/groove' to master effects?
